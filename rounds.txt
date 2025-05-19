@@ -1,0 +1,345 @@
+
+    <div>
+    <h2>Única                                            -
+                                                                                9ª rodada</h2>
+    <article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    17/05/2025                                                                                                                            - 16h00                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/ceara-2-x-0-sport-vovo-joga-bem-e-sobe-pra-5o-lugar/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-120-150x150.png" alt="CEA" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Ceará</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">2</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 0 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-111-150x150.png" alt="SPO" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Sport</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    17/05/2025                                                                                                                            - 18h30                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/vasco-3-x-0-fortaleza-vegetti-brilha-faz-50o-gol-e-cruzmaltino-encerra-jejum/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://images.futebolinterior.com.br/2021/09/vasco-logo-150x150.png" alt="VAS" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Vasco</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">3</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 0 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://images.futebolinterior.com.br/2022/07/fortaleza-150x150.png" alt="FOR" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Fortaleza</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    17/05/2025                                                                                                                            - 21h00                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/sao-paulo-2-x-1-gremio-tricolor-paulista-vence-de-virada/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-1-150x150.png" alt="SAO" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">São Paulo</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">2</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 1 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-90-150x150.png" alt="GRE" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Grêmio</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 16h00                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/juventude-1-x-1-fluminense-ninguem-saiu-feliz-de-campo/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-79-150x150.png" alt="JUV" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Juventude</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">1</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 1 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-99-150x150.png" alt="FLU" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Fluminense</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 16h00                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/bahia-2-x-1-vitoria-tricolor-supera-expulsao-e-cola-no-g-4/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-452-150x150.png" alt="BAH" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Bahia</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">2</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 1 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-78-150x150.png" alt="VIT" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Vitória</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 16h00                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/corinthians-vence-santos-brasileirao/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-36-150x150.png" alt="COR" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Corinthians</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">1</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 0 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-38-150x150.png" alt="SAN" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Santos</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 18h30                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/palmeiras-vence-red-bull-bragantino/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-27-150x150.png" alt="RBB" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Red Bull Bragantino</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">1</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 2 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-150x150.png" alt="PAL" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Palmeiras</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 18h30                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/flamengo-0-x-0-botafogo-o-classico-decepcionou-o-maracana/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-107-150x150.png" alt="FLA" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Flamengo</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">0</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 0 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-70-150x150.png" alt="BOT" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Botafogo</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 20h30                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/internacional-1-x-1-mirassol/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-69-150x150.png" alt="INT" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Internacional</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">1</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 1 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-17-150x150.png" alt="MIR" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Mirassol</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article><article class="card-match">
+                                                <div class="card-match__header">
+                                                    <time>
+                                                                                                                    18/05/2025                                                                                                                            - 20h30                                                             
+                                                                                                            </time>
+                                                                                                        <span class="card-match__bagde center after-game">
+                                                        Finalizado                                                    </span>
+                                                                                                          <a href="https://www.futebolinterior.com.br/cruzeiro-0-x-0-atletico-mg-raposa-para-no-travessao-e-empata/" class="card-match__bagde after-game">
+                                                          <i class="icon"><svg width="13" height="12" viewbox="0 0 13 12" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M8.25775 7.40847L9.14529 7.41007C9.29322 7.41034 9.44155 7.22574 9.44196 7.04088L9.45054 3.15872C9.45095 2.97385 9.30344 2.78872 9.15551 2.78845L8.26797 2.78685C8.12004 2.78658 7.97171 2.97118 7.9713 3.15605L7.96271 7.03821C7.96231 7.22307 8.10982 7.4082 8.25775 7.40847ZM10.4766 7.41247L11.3642 7.41408C11.5121 7.41434 11.6604 7.22975 11.6608 7.04488L11.6755 0.389749C11.6759 0.204884 11.5284 0.0197527 11.3805 0.0194857L10.493 0.0178842C10.345 0.0176172 10.1967 0.202215 10.1963 0.38708L10.1816 7.04221C10.1812 7.22708 10.3287 7.41221 10.4766 7.41247ZM3.82001 7.40046L4.70756 7.40206C4.85549 7.40233 5.00382 7.21773 5.00423 7.03287L5.00872 4.99936C5.00913 4.81449 4.86162 4.62936 4.71369 4.62909L3.82615 4.62749C3.67822 4.62722 3.52989 4.81182 3.52948 4.99669L3.52498 7.0302C3.52457 7.21506 3.67209 7.4002 3.82001 7.40046ZM6.03888 7.40447L6.92643 7.40607C7.07435 7.40633 7.22268 7.22174 7.22309 7.03687L7.23577 1.30607C7.23617 1.1212 7.08866 0.936069 6.94073 0.935802L6.05319 0.9342C5.90526 0.933933 5.75693 1.11853 5.75652 1.3034L5.74385 7.0342C5.74344 7.21907 5.89096 7.4042 6.03888 7.40447ZM12.0257 9.26392L2.04083 9.24591L2.06025 0.464831C2.06082 0.209487 1.89578 0.00237065 1.69146 0.00200196L0.951842 0.00066732C0.747522 0.000298626 0.581574 0.206817 0.581009 0.462162L0.559546 10.1676C0.558417 10.678 0.888714 11.0925 1.29712 11.0932L12.0216 11.1126C12.226 11.1129 12.3919 10.9064 12.3925 10.6511L12.3945 9.72675C12.3951 9.47141 12.23 9.26429 12.0257 9.26392Z" fill="currentColor"></path></svg></i>
+                                                          PÓS-JOGO
+                                                      </a>
+                                                                                                    </div>
+                                                <div class="card-match__scoreboard">
+                                                                                                            <figure class="card-match__score-team home">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-74-150x150.png" alt="CRU" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Cruzeiro</figcaption>
+															</div>
+                                                        </figure>
+                                                    
+                                                    <figure class="card-match__score-result">
+                                                        <span class="card-match__score-number">0</span>
+                                                        <i class="icon">
+                                                            <svg xmlns="http://www.w3.org/2000/svg" width="42" height="39" viewbox="0 0 42 39" fill="none"><path d="M7.1338 0H41.252L34.1182 38.8947H0L7.1338 0Z" fill="#D2D2D2"></path><path d="M20.6056 21.7109L26.4362 28.7749L28.9479 26.7018L22.7711 19.2185L28.9202 12.1412L26.4618 10.0052L20.6693 16.672L14.8398 9.60938L12.3281 11.6825L18.5038 19.1645L12.3537 26.243L14.8121 28.379L20.6056 21.7109Z" fill="black"></path></svg>                                                        </i>
+                                                        <span class="card-match__score-number"> 0 </span>
+                                                    </figure>
+                                                    
+                                                                                                            <figure class="card-match__score-team away">
+                                                            <div class="card-team-name">
+																<img src="https://www.futebolinterior.com.br/wp-content/uploads/2020/11/unnamed-file-59-150x150.png" alt="ATL" class="card-match__score-team-img">
+																<figcaption class="card-match__short-name">Atlético-MG</figcaption>
+															</div>
+                                                        </figure>
+                                                                                                    </div>
+                                            </article></div>
