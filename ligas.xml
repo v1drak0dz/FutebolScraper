@@ -1,0 +1,36 @@
+<?xml version="1.0" ?>
+<ligas>
+  <liga>
+    <nome>Brasileirão Série A</nome>
+  </liga>
+  <liga>
+    <nome>Brasileirão Série B</nome>
+  </liga>
+  <liga>
+    <nome>Brasileirão Série C</nome>
+  </liga>
+  <liga>
+    <nome>Brasileirão Série D</nome>
+  </liga>
+  <liga>
+    <nome>Paulista A1-2025</nome>
+  </liga>
+  <liga>
+    <nome>Paulista A2-2025</nome>
+  </liga>
+  <liga>
+    <nome>Paulista A4-2025</nome>
+  </liga>
+  <liga>
+    <nome>Libertadores</nome>
+  </liga>
+  <liga>
+    <nome>Copa do Brasil</nome>
+  </liga>
+  <liga>
+    <nome>Sul-Americana</nome>
+  </liga>
+  <liga>
+    <nome>Copa Paulista</nome>
+  </liga>
+</ligas>
